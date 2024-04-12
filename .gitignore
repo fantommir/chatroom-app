@@ -38,3 +38,4 @@ node_modules/
 # Java exclusions
 
 
+/.metadata/
